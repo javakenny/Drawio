@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T05:43:22.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uZzoHpCixyITpWVAnnxo" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T05:44:08.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="fgO9I692yuzxVltmS9kh" version="13.10.4" type="github">
   <diagram id="ONqUt38EhZFwzvi8UBoi" name="第 1 页">
     <mxGraphModel dx="1052" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,9 @@
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-10" value="组合消除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4IJZA1oA-bMBYCNWUD9J-12" value="基本规则" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
