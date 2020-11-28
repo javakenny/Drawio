@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T06:21:31.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7CwS_LtFYBc65JaTEdLZ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T06:22:14.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="wLKPV6Ym4iG3AFEFf-n-" version="13.10.4" type="github">
   <diagram id="ONqUt38EhZFwzvi8UBoi" name="第 1 页">
     <mxGraphModel dx="1052" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,28 +91,28 @@
           <mxGeometry x="440" y="740" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-28" value="预设图形" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="900" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-29" value="Selection.address&lt;br&gt;保存图形地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="970" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-30" value="Int(Rnd * n) + 1&lt;br&gt;随机数得图形地址" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1050" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1050" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-34" value="增加或减少图形序号&lt;br&gt;变形/旋转" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1140" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="1140" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-35" value="计算区域内数值&lt;br&gt;判定满行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1280" width="210" height="60" as="geometry" />
+          <mxGeometry x="440" y="1280" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-36" value="&lt;div&gt;Range(x,y).Interior.Color = xlNone&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Range(x,y).ClearContents&lt;/div&gt;清空满行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1370" width="210" height="60" as="geometry" />
+          <mxGeometry x="440" y="1370" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-37" value="控制上方单元格掉落" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1520" width="210" height="60" as="geometry" />
+          <mxGeometry x="440" y="1520" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4IJZA1oA-bMBYCNWUD9J-43" value="得分+1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1450" width="210" height="60" as="geometry" />
+          <mxGeometry x="440" y="1450" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
