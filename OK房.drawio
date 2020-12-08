@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:44:07.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="S46l_yhSaB2XHO4z5p8X" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:46:25.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6bKEwHKDYbTgIOkN2eTc" version="13.10.4" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="877" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -96,8 +96,17 @@
         <mxCell id="PunX1s-PFCRW8iPzY49S-106" value="&lt;span style=&quot;&quot;&gt;最新房源咨询&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;专业购房知识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#10739e;fillColor=#b1ddf0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="810" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PunX1s-PFCRW8iPzY49S-107" value="OK房" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=15;fontColor=#00BABA;" vertex="1" parent="1">
-          <mxGeometry x="840" y="180" width="60" height="20" as="geometry" />
+        <mxCell id="PunX1s-PFCRW8iPzY49S-107" value="OK房优势" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=15;fontColor=#00BABA;" vertex="1" parent="1">
+          <mxGeometry x="830" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-110" value="房市概况" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-111" value="输出渠道" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-112" value="OK房" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="40" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
