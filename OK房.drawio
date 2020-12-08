@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T08:29:58.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="9k_JpQ9JjZO-wvqzDPrB" version="13.10.4" type="github"><diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">3ZZNj5swEIZ/jY+NHIwdOIYs2R5aqVKk9lg54IC1BlPjNEl/fW0wX4GVNtJWWpUD2O+Mv2YeBgDaFddnRav8q0yZAB5MrwA9Ac9bQ+yZh1VurYKx3wqZ4qlzGoQD/8O6kU4985TVE0ctpdC8moqJLEuW6IlGlZKXqdtJiumqFc3YTDgkVMzVHzzVuVPXEA6Gz4xnuVs6wM5wpMlLpuS5dOsBD52aqzUXtJvL+dc5TeVlJKEYoJ2SUret4rpjwsa2C1s7bv+Ktd+3YqV+y4ANJIRsMEkC/3gMUfLJzfCbijPrjtBsVN+64JgZTB5MJ7rkXLNDRRNruRgUjJbrQpje2jSbODC7EjS9/qi2k8iCJ51BK/nSx9kOPMlS72nBhcXnO1MpLamTHStr3/a5EDsppGr2hUgabIjfTziyoC32UTfxSHepQdE8bF0cmNLsOpJcGJ+ZLJhWN+PirKhj49bD0vYvA0C488lH7PQiddBm/dxD4kzD5e6NefQW8kiEdjFoXp0uDOTX2eJmgmDOEIZ2O4NEsuYZExAEINqD2AfRFmw3IMYgCkDg2Ua4s6Kb32y1XcIN/Yj42ETeYVLKks2Z6gm5IwdCEvZrHdzhFt6+hzHyvSlGZqkZRh5ZwKgX3xUjPMcoNhz4YPs0YsJwAEGAZ6me5Cyldd5nc5Tmh9Ig6JGJb7LmmsvS2BITaWacIhthbgr4lzuHo9RaFiOHreCZNWhZtVRVdrPFNbNfspU8nXjCVueaqbq9z0Acs/fWQjWFZ99c71R2ui+r48WHcIVnxPhkqe78A17WC9+PgRNiy0QI/x9OzP9Hwipdr2T5s1Ks4DX76MCQcFpgUDgvMMhfwAU/jIvpDn8yjW30u4jivw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-08T08:34:23.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3MK4sNgq343oBB45kGTn" version="13.10.4" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="1238" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="90" y="110" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-2" value="&lt;font color=&quot;#009900&quot;&gt;房产市场&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="230" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-5" value="购房客户" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="144" y="400.5" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-11" value="房源" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="480" y="390" width="34" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;房产经纪人&lt;/span&gt;" style="shape=mxgraph.signs.travel.arriving_flights;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FFFFFF;fontFamily=Verdana;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="308" y="130" width="65" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
