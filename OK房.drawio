@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:56:08.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-Glt3yYN5EogyDuN5ure" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:58:27.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="k-TUF7770eNssxHGTIP1" version="13.10.4" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1052" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -127,6 +127,11 @@
               <mxPoint x="990" y="350" />
               <mxPoint x="1090" y="200" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-119" value="客户-房产经纪-房源增长形成闭环，&lt;br&gt;推动业务规模的扩大" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Verdana;labelBackgroundColor=#DCF0DB;fontColor=#EA6B66;" vertex="1" connectable="0" parent="PunX1s-PFCRW8iPzY49S-118">
+          <mxGeometry x="-0.2196" y="2" relative="1" as="geometry">
+            <mxPoint x="-22.049999999999997" y="54.18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
