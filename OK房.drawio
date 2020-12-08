@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:58:27.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="k-TUF7770eNssxHGTIP1" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:59:24.566Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rQmKeC6KeBPm1TDjfHwM" version="13.10.4" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1052" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -93,10 +93,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-106" value="&lt;span style=&quot;&quot;&gt;最新房源咨询&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;专业购房知识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#10739e;fillColor=#b1ddf0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="850" y="247.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="251.25" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-107" value="OK房优势" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=15;fontColor=#00BABA;" vertex="1" parent="1">
-          <mxGeometry x="870" y="220" width="80" height="20" as="geometry" />
+          <mxGeometry x="860" y="231.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-110" value="房市概况" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="40" width="100" height="40" as="geometry" />
@@ -105,7 +105,7 @@
           <mxGeometry x="550" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-112" value="OK房" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="850" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-115" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=15;fontColor=#00BABA;strokeWidth=2;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,14 +124,14 @@
             <mxPoint x="770" y="360" as="sourcePoint" />
             <mxPoint x="770" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="990" y="350" />
-              <mxPoint x="1090" y="200" />
+              <mxPoint x="970" y="360" />
+              <mxPoint x="1010" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-119" value="客户-房产经纪-房源增长形成闭环，&lt;br&gt;推动业务规模的扩大" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Verdana;labelBackgroundColor=#DCF0DB;fontColor=#EA6B66;" vertex="1" connectable="0" parent="PunX1s-PFCRW8iPzY49S-118">
           <mxGeometry x="-0.2196" y="2" relative="1" as="geometry">
-            <mxPoint x="-22.049999999999997" y="54.18" as="offset" />
+            <mxPoint x="-27.589999999999996" y="53.39000000000001" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
