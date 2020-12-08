@@ -1,23 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T08:38:05.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qUd0Ksr_ThV6JprAa6Aj" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T08:57:29.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FTZomzgA9rJNVeZZE2kh" version="13.10.4" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1052" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="90" y="110" width="500" height="500" as="geometry" />
+        <mxCell id="PunX1s-PFCRW8iPzY49S-68" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=none;strokeColor=#16CCE0;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=15;fontColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="360" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-2" value="&lt;font color=&quot;#009900&quot;&gt;房产市场&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="210" y="230" width="260" height="260" as="geometry" />
+        <mxCell id="PunX1s-PFCRW8iPzY49S-69" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-68">
+          <mxGeometry width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-5" value="购房客户" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;fillColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="144" y="400.5" width="46" height="50" as="geometry" />
+        <mxCell id="PunX1s-PFCRW8iPzY49S-70" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-69">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="70666756c84bb93c-11" value="房源" style="shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;fillColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="480" y="390" width="34" height="55" as="geometry" />
+        <mxCell id="PunX1s-PFCRW8iPzY49S-71" value="拥有" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-69">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PunX1s-PFCRW8iPzY49S-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;房产经纪人&lt;/span&gt;" style="shape=mxgraph.signs.travel.arriving_flights;html=1;pointerEvents=1;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontFamily=Verdana;fillColor=#009900;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="308" y="130" width="65" height="70" as="geometry" />
+        <mxCell id="PunX1s-PFCRW8iPzY49S-72" value="缺少" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-69">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-68">
+          <mxGeometry y="60" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-82" value="购房客户" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-81">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-83" value="资金" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-81">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-84" value="房源&lt;br&gt;购房技巧" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-81">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-73" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-68">
+          <mxGeometry y="120" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-74" value="房产经纪人" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-73">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-75" value="房源、客户" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-73">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-76" value="优质房源、刚需客户" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-73">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-77" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-68">
+          <mxGeometry y="180" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-78" value="房源" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-77">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-79" value="房源" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-77">
+          <mxGeometry x="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-80" value="客户" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="PunX1s-PFCRW8iPzY49S-77">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-85" value="客户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;strokeColor=#16CCE0;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=15;fontColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PunX1s-PFCRW8iPzY49S-88" value="购房技巧" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#16CCE0;fillColor=#E6E6E6;fontFamily=Verdana;fontSize=15;fontColor=#080808;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
