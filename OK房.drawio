@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T01:09:15.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="t1fJoFokTIhxc7KrQhMb" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T01:09:32.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XlJy8n7Ksuawww1xhtbV" version="13.11.0" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1052" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="PunX1s-PFCRW8iPzY49S-69" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PunX1s-PFCRW8iPzY49S-68" vertex="1">
           <mxGeometry width="370" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="PunX1s-PFCRW8iPzY49S-70" value="角色\属性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=0" parent="PunX1s-PFCRW8iPzY49S-69" vertex="1">
+        <mxCell id="PunX1s-PFCRW8iPzY49S-70" value="角色\属性" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="PunX1s-PFCRW8iPzY49S-69" vertex="1">
           <mxGeometry width="123" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="PunX1s-PFCRW8iPzY49S-71" value="拥有" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="PunX1s-PFCRW8iPzY49S-69" vertex="1">
+        <mxCell id="PunX1s-PFCRW8iPzY49S-71" value="拥有" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="PunX1s-PFCRW8iPzY49S-69" vertex="1">
           <mxGeometry x="123" width="124" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="PunX1s-PFCRW8iPzY49S-72" value="稀缺" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="PunX1s-PFCRW8iPzY49S-69" vertex="1">
+        <mxCell id="PunX1s-PFCRW8iPzY49S-72" value="稀缺" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontStyle=1" parent="PunX1s-PFCRW8iPzY49S-69" vertex="1">
           <mxGeometry x="247" width="123" height="75" as="geometry" />
         </mxCell>
         <mxCell id="PunX1s-PFCRW8iPzY49S-81" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="PunX1s-PFCRW8iPzY49S-68" vertex="1">
